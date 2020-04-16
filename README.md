@@ -1,7 +1,6 @@
 # myjavacode
 my public java code
 
-```mermaid
 graph LR
 A((公用配置文件模块))
 B(总项目1)
@@ -29,4 +28,4 @@ G-.->A
 I-.->A
 J-.->A
 A-.-K
-```
+
